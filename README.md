@@ -31,3 +31,6 @@ To check your code without creating an executable:
 ```bash
 $ cargo check 
 ```
+
+
+Tutorial for the Guessing Game can be found [Here](https://doc.rust-lang.org/book/ch02-00-guessing-game-tutorial.html)
